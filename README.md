@@ -1,4 +1,4 @@
-# computer-networks
+# Computer Networks
 
 All assignments for module: CSU33031
 - Project 1: Broker-Subscriber-Publisher System
